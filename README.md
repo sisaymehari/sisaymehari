@@ -16,7 +16,7 @@ JavaScript · TypeScript · React · Next.js · React Native · Supabase · Post
 
 **Find me**
 
-[Portfolio](https://sisaymehari.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/sisay-mehari/) · meharisisay6@gmail.com## 
+[Portfolio](https://sisaymehari.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/sisay-mehari/) · meharisisay6@gmail.com
 
 <!--
 **sisaymehari/sisaymehari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
